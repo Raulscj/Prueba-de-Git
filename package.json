@@ -1,0 +1,23 @@
+{
+  "name": "git-course",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de  git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raulscj/Prueba-de-Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raulscj/Prueba-de-Git/issues"
+  },
+  "homepage": "https://github.com/Raulscj/Prueba-de-Git#readme",
+  "dependencies": {
+    "epress": "0.0.1-security",
+    "express": "^4.17.1"
+  }
+}
